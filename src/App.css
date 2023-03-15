@@ -15,10 +15,10 @@ body {
 }
 
 .app-title{
-  margin-top: 75px;
+  margin-top: 50px;
   margin-bottom: 50px;
-  font-size: 76px;
+  font-size: 50px;
   color: #0ccac4;
   font-family: 'Bigelow Rules', cursive;
-font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
